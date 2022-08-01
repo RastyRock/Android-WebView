@@ -1,4 +1,4 @@
-package com.example.mahmal_bio;
+
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         webView.setWebViewClient(client);
         webView.getSettings().setJavaScriptEnabled(true);
 
-        webView.loadUrl("https://mahmalbio.online");
+        webView.loadUrl("https://You site");
     }
 
     @Override
